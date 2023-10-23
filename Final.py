@@ -6,8 +6,8 @@ import json
 
 # Define your account credentials and other settings
 #account = {"username": "sv0985797@gmail.com", "password": "SeanUpwork@3131", "profile": "Assistance Help","code":"44RE KX7P OFJK 5AIV WKPV 4XX5 5JC2 WIMN"}
-#account = {"username": "ggnjrhqv@firstmailler.net", "password": "V4RBCYDD", "profile": "PoIicy VioIation","code":"CHMUXBN7ABFOH6YLLETDUOUEJBCYJE3N"}
-account = {"username": "osdtgdew@firstmailler.com", "password": "SO0O1CHF", "profile": "PoIicy VioIation Message","code":"ACE2AOSAZV7UVTLFU3AWS4NOFBXPQQSP"}
+account = {"username": "ggnjrhqv@firstmailler.net", "password": "V4RBCYDD", "profile": "PoIicy VioIation","code":"CHMUXBN7ABFOH6YLLETDUOUEJBCYJE3N"}
+#account = {"username": "osdtgdew@firstmailler.com", "password": "SO0O1CHF", "profile": "PoIicy VioIation Message","code":"ACE2AOSAZV7UVTLFU3AWS4NOFBXPQQSP"}
 message = "Hi How are you\n Hope you are doing good"
 
 
