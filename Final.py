@@ -40,6 +40,7 @@ async def send_message(context, link, message, account):
         await page.get_by_role("textbox", name="Send a message as " + account["profile"]).clear()
         await page.get_by_role("textbox", name="Send a message as " + account["profile"]).fill(message)
         await page.get_by_label("Send Message").click()
+        await page.screenshot(path='Messagess.png')
         await asyncio.sleep(waitTime)
         await page.close()
         return  # Successful message sent
